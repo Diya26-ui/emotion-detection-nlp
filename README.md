@@ -8,6 +8,7 @@ This project predicts human emotions from text using machine learning.
 - Pandas
 - Scikit-learn
 - NLTK
+- this project also includes a streamlit web app for real - time emotion detection.
 
 ## 🚀 Features
 - Text preprocessing
